@@ -43,13 +43,13 @@
 </div>
 <h2> About Me <img src = "https://media0.giphy.com/media/KDDpcKigbfFpnejZs6/giphy.gif?cid=ecf05e47oy6f4zjs8g1qoiystc56cu7r9tb8a1fe76e05oty&rid=giphy.gif" width = 100px></h2>
 
-- 🔭 I’m currently working on 
+- 🔭 I’m currently working on B2B Web Application
 
-- 🌱 I’m currently learning Android Development 
+- 🌱 I’m currently learning Android Development, Web Development, UX/UI Designing and Graphic Designing 
 
-- 👯 I’m looking to collaborate on  
+- 👯 I’m looking to collaborate on Android and Web Development Projects 
 
-- 💬 Talk to me about  
+- 💬 Talk to me about 📟Digital Art, 📚Mystery Novels, 🎨Sketching and 💻Coding 
 
 
 <h2> Stuff I worked on last week  <img src = "https://media1.giphy.com/media/JZ40cnfnN11KycrvMF/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 100px> </h2>
@@ -76,5 +76,5 @@
 
 ![Jokes Card](https://readme-jokes.vercel.app/api?theme=dark)
 
-
-<footer align='center'>README made with help of <a href='https://github.com/rahulbanerjee26/githubProfileReadmeGenerator'>githubProfileReadmeGenerator</a> </footer>
+<footer align='center'>README made with 💖 </footer>
+<!-- <footer align='center'>README made with help of <a href='https://github.com/rahulbanerjee26/githubProfileReadmeGenerator'>githubProfileReadmeGenerator</a> </footer>-->
