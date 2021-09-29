@@ -76,5 +76,5 @@
 
 ![Jokes Card](https://readme-jokes.vercel.app/api?theme=dark)
 
-<footer align='center'>README made with 💖 </footer>
+<footer align='center'>Show some 💖 by 🌟 my Repositories</footer>
 <!-- <footer align='center'>README made with help of <a href='https://github.com/rahulbanerjee26/githubProfileReadmeGenerator'>githubProfileReadmeGenerator</a> </footer>-->
