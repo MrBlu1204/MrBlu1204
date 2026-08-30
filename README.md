@@ -1,138 +1,329 @@
 <div align="center">
-  <img src="./assets/hero.svg" alt="Manish Ranjan Behera — Software Engineer" width="100%" />
+
+<img src="./assets/hero.gif" alt="Cyberpunk-inspired Manish Ranjan Behera engineering profile" width="100%" />
+
+<a href="#about"><kbd> ABOUT </kbd></a>
+<a href="#impact"><kbd> IMPACT </kbd></a>
+<a href="#focus"><kbd> STACK </kbd></a>
+<a href="#mission"><kbd> NOW </kbd></a>
+<a href="#journey"><kbd> JOURNEY </kbd></a>
+<a href="#code"><kbd> CODE </kbd></a>
+<a href="#awards"><kbd> TROPHIES </kbd></a>
+
+<br><br>
+
+<a href="https://www.linkedin.com/in/manishranjanbehera/">
+<img src="https://upload.wikimedia.org/wikipedia/commons/e/e8/Linkedin-logo-blue-In-square-40px.png" width="34" alt="LinkedIn" />
+</a>
+&nbsp;
+<a href="https://github.com/MrBlu1204">
+<img src="https://upload.wikimedia.org/wikipedia/commons/9/91/Octicons-mark-github.svg" width="34" alt="GitHub" />
+</a>
+&nbsp;
+<a href="https://leetcode.com/u/MR-Blu/">
+<img src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" width="34" alt="LeetCode" />
+</a>
+&nbsp;
+<a href="https://www.hackerrank.com/profile/MR_Blu">
+<img src="https://upload.wikimedia.org/wikipedia/commons/6/65/HackerRank_logo.png" width="36" alt="HackerRank" />
+</a>
+
+<br><br>
+
+<kbd>JAVA</kbd> <kbd>SPRING BOOT</kbd> <kbd>MICROSERVICES</kbd> <kbd>DISTRIBUTED SYSTEMS</kbd> <kbd>CLOUD</kbd>
+
 </div>
 
-<p align="center">
-  <a href="https://github.com/MrBlu1204">GitHub</a> ·
-  <a href="https://www.linkedin.com/in/manishranjanbehera/">LinkedIn</a> ·
-  <a href="https://leetcode.com/u/MR-Blu/">LeetCode</a> ·
-  <a href="https://www.hackerrank.com/profile/MR_Blu">HackerRank</a> ·
-  <a href="mailto:manish12042000@gmail.com">Email</a>
-</p>
+---
 
-<table align="center">
-<tr>
-<td align="center"><b>4+ yrs</b><br><sub>Engineering</sub></td>
-<td align="center"><b>25%</b><br><sub>Throughput ↑</sub></td>
-<td align="center"><b>15%</b><br><sub>API latency ↓</sub></td>
-<td align="center"><b>99%</b><br><sub>Uptime SLA</sub></td>
-<td align="center"><b>400K+</b><br><sub>Requests/day/client</sub></td>
-</tr>
-</table>
+<a id="about"></a>
 
-⚡ What I Build
+## `SYS::IDENTITY`  ◇  ABOUT ME
 
 <table>
 <tr>
-<td width="25%" align="center">⚙️<br><b>Backend</b></td>
-<td>Java · Spring Boot · REST · Microservices · Hibernate</td>
-</tr>
-<tr>
-<td align="center">🧵<br><b>Performance</b></td>
-<td>Multithreading · concurrency · thread pools · query tuning · latency</td>
-</tr>
-<tr>
-<td align="center">☁️<br><b>Cloud</b></td>
-<td>AWS · GCP · Azure · Prometheus · Grafana · CI/CD</td>
-</tr>
-<tr>
-<td align="center">🗄️<br><b>Data</b></td>
-<td>Python · SQL · MySQL · ClickHouse · ETL · data pipelines</td>
-</tr>
-</table>
+<td width="62%" valign="middle">
 
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=java,spring,hibernate,javascript,python,mysql,aws,gcp,azure,prometheus,grafana&perline=11" alt="Tech stack" />
-</div>
+### **Software Engineer · Backend / Distributed Systems / Cloud**
 
-🎯 Current Role
+**4+ years** building and troubleshooting backend services, distributed data pipelines and cloud infrastructure. I work mainly with **Java + Spring Boot**, with a bias toward **performance, concurrency, reliability and observability**.
 
-<div align="center">
-  <img src="./assets/current-role.svg" alt="Current role and engineering focus" width="100%" />
-</div>
+> `BUILD` resilient systems → `DEBUG` hard production failures → `OPTIMIZE` bottlenecks → `OPERATE` at scale
 
-Technical Consultant II · Software Engineer — HighRadius Technologies · Hyderabad
-Jan 2026 – Present · Java · JavaScript · SQL · AWS · GCP · Azure
+</td>
+<td width="38%" align="center">
 
-📈 Engineering Impact
+```text
+┌─────────────────────┐
+│  ENGINEERING DNA    │
+├─────────────────────┤
+│ JAVA        ████████ │
+│ BACKEND     ████████ │
+│ CLOUD       ██████░░ │
+│ DATA        ██████░░ │
+│ SYSTEMS     ███████░ │
+└─────────────────────┘
+```
 
-<table>
-<tr>
-<td align="center" width="25%"><b>100%</b><br><sub>Ledger traceability</sub></td>
-<td align="center" width="25%"><b>99%</b><br><sub>Uptime SLA</sub></td>
-<td align="center" width="25%"><b>25%</b><br><sub>Throughput ↑</sub></td>
-<td align="center" width="25%"><b>15%</b><br><sub>API latency ↓</sub></td>
-</tr>
-<tr>
-<td align="center"><b>10%</b><br><sub>Batch latency ↓</sub></td>
-<td align="center"><b>400K+</b><br><sub>Requests/day/client</sub></td>
-<td align="center"><b>25%</b><br><sub>Support tickets ↓</sub></td>
-<td align="center"><b>8 hrs/wk</b><br><sub>Manual work saved</sub></td>
+</td>
 </tr>
 </table>
 
-<div align="center">
-  <img src="./assets/career.svg" alt="Career contribution timeline" width="100%" />
-</div>
+---
 
-<sub><b>2026</b> Reconciliation + IAM + multi-cloud reliability  →  <b>2025</b> Concurrency + ETL + Graph API  →  <b>2024</b> Microservices + diagnostics  →  <b>2022–23</b> Data engineering  →  <b>2021–22</b> ML + analytics</sub>
-
-🏆 Recognition
+<a id="impact"></a>
 
 <div align="center">
-  <img src="./assets/awards.svg" alt="Awards and recognition" width="100%" />
-</div>
+
+## `// ENGINEERING IMPACT`
+
+| **4+ YRS** | **99%** | **25% ↑** | **15% ↓** | **400K+** |
+|:---:|:---:|:---:|:---:|:---:|
+| EXPERIENCE | UPTIME SLA | THROUGHPUT | API LATENCY | REQUESTS / DAY / CLIENT |
+
+| **100%** | **100%** | **35% ↓** | **25% ↓** | **8 HRS/WK** |
+|:---:|:---:|:---:|:---:|:---:|
+| LEDGER TRACEABILITY | DATA ACCURACY | PROCESSING TIME | SUPPORT TICKETS | MANUAL ANALYSIS |
 
 <details>
-<summary><b>View all 5 awards</b></summary>
+<summary><b>↳ DECODE THE METRICS</b></summary>
 
-Year
+<br>
 
-Recognition
-
-2025
-
-Annual Award — Highflyer
-
-2024
-
-Award of Applause — Highflyer Q2
-
-2023
-
-Award of Applause — Highflyer H1
-
-2021
-
-Team of the Year — Highflyer
-
-2021
-
-Star Team Award — Highflyer Q3
+`100% TRACEABILITY` — automated Credit Note reconciliation for enterprise ledgers  
+`99% SLA` — multi-cloud monitoring across AWS, GCP and Azure  
+`25% THROUGHPUT ↑` — scalable Java/Spring Boot backend services  
+`15% API LATENCY ↓` — backend optimisation  
+`400K+ / DAY / CLIENT` — Microsoft Graph API ingestion pipelines  
+`35% PROCESSING ↓` — data/query optimisation  
+`25% SUPPORT TICKETS ↓` — internal diagnostic automation  
+`8 HRS / WEEK` — manual analysis eliminated
 
 </details>
 
-🧩 Coding & Profiles
+</div>
+
+---
+
+<a id="focus"></a>
+
+<div align="center">
+
+## `// ENGINEERING FOCUS`
+
+</div>
 
 <table align="center">
 <tr>
-<td align="center"><a href="https://leetcode.com/u/MR-Blu/"><img src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=original" width="52" alt="LeetCode" /></a><br><b>LeetCode</b><br><sub>MR-Blu</sub></td>
-<td align="center"><a href="https://www.hackerrank.com/profile/MR_Blu"><img src="https://upload.wikimedia.org/wikipedia/commons/6/65/HackerRank_logo.png?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=original" width="52" alt="HackerRank" /></a><br><b>HackerRank</b><br><sub>MR_Blu</sub></td>
-<td align="center"><a href="https://github.com/MrBlu1204"><img src="https://upload.wikimedia.org/wikipedia/commons/9/91/Octicons-mark-github.svg?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=original" width="52" alt="GitHub" /></a><br><b>GitHub</b><br><sub>MrBlu1204</sub></td>
-<td align="center"><a href="https://www.linkedin.com/in/manishranjanbehera/"><img src="https://upload.wikimedia.org/wikipedia/commons/e/e8/Linkedin-logo-blue-In-square-40px.png?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=original" width="52" alt="LinkedIn" /></a><br><b>LinkedIn</b><br><sub>manishranjanbehera</sub></td>
+<td width="25%" align="center">
+
+### ⚡ BUILD
+
+<img src="https://cdn.simpleicons.org/openjdk/fcee0a" width="30" /> <img src="https://cdn.simpleicons.org/springboot/6ee7f9" width="30" /> <img src="https://cdn.simpleicons.org/hibernate/ff2a6d" width="30" />
+
+`Java` · `Spring Boot`  
+`REST` · `Microservices`
+
+</td>
+<td width="25%" align="center">
+
+### 🧬 SCALE
+
+<img src="https://cdn.simpleicons.org/apachekafka/fcee0a" width="30" /> <img src="https://cdn.simpleicons.org/redis/ff2a6d" width="30" /> <img src="https://cdn.simpleicons.org/docker/6ee7f9" width="30" />
+
+`Multithreading`  
+`ETL` · `Distributed Systems`
+
+</td>
+<td width="25%" align="center">
+
+### ☁ OPERATE
+
+<img src="https://cdn.simpleicons.org/amazonaws/fcee0a" width="30" /> <img src="https://cdn.simpleicons.org/googlecloud/6ee7f9" width="30" /> <img src="https://cdn.simpleicons.org/prometheus/ff2a6d" width="30" />
+
+`AWS` · `GCP` · `Azure`  
+`CI/CD` · `Observability`
+
+</td>
+<td width="25%" align="center">
+
+### 🧠 DATA
+
+<img src="https://cdn.simpleicons.org/mysql/6ee7f9" width="30" /> <img src="https://cdn.simpleicons.org/python/fcee0a" width="30" />
+
+`SQL` · `Python`  
+`MySQL` · `ClickHouse`
+
+</td>
 </tr>
 </table>
 
 <div align="center">
-  <a href="https://leetcode.com/u/MR-Blu/"><img src="https://leetcard.jacoblin.cool/MR-Blu?theme=dark&ext=heatmap" width="700" alt="LeetCode profile statistics" /></a>
+
+`PROMETHEUS` · `GRAFANA` · `MAVEN` · `GIT` · `CI/CD` · `REST APIs` · `OOP` · `DSA`
+
 </div>
 
-<p align="center"><sub>HackerRank: Problem Solving — Basic & Intermediate · Python — Basic · SQL — Basic · Java Developer</sub></p>
+---
 
-🎓 Education
+<a id="mission"></a>
 
-B.Tech · Computer Science & System Design — Kalinga Institute of Industrial Technology (KIIT) · 2018–2022 · CGPA 9.0
+<div align="center">
 
-<p align="center">
-  <a href="mailto:manish12042000@gmail.com">Let's build something useful.</a>
-</p>
+## `// CURRENT MISSION`  `[ HIGH PRIORITY ]`
+
+<img src="./assets/role.gif" alt="Current role and engineering focus" width="100%" />
+
+**TECHNICAL CONSULTANT II · SOFTWARE ENGINEER**  @  **HIGHRadius Technologies**  ·  **2026 → PRESENT**
+
+</div>
+
+<table align="center">
+<tr>
+<td align="center"><b>01 · RECON</b><br><sub>Credit Note automation<br><b>100% traceability</b></sub></td>
+<td align="center"><b>02 · AUTH</b><br><sub>Java / SMTP recovery<br><b>OTC delivery restored</b></sub></td>
+<td align="center"><b>03 · IAM</b><br><sub>Multi-tenant backend<br><b>stable sessions</b></sub></td>
+<td align="center"><b>04 · CLOUD</b><br><sub>AWS · GCP · Azure<br><b>99% SLA</b></sub></td>
+</tr>
+</table>
+
+---
+
+<a id="journey"></a>
+
+<div align="center">
+
+## `// CAREER MAP`
+
+<img src="./assets/career.gif" alt="Animated career journey" width="100%" />
+
+**ML / ANALYTICS** → **DATA ENGINEERING** → **BACKEND / MICROSERVICES** → **CONCURRENCY / PIPELINES** → **BACKEND + CLOUD**
+
+</div>
+
+<details>
+<summary><b>↳ OPEN CAREER LOG</b></summary>
+
+<br>
+
+| PERIOD | MODE | SIGNAL |
+|:---:|:---|:---|
+| **2021–22** | Machine Learning / Analytics | Regression, AWS EC2, prediction pipelines |
+| **2022–23** | Data / Analytics Engineering | Python, SQL, stored procedures, query optimisation |
+| **2024** | Backend Engineering | Java, Spring Boot, Hibernate, microservices |
+| **2025** | Distributed / Concurrency Engineering | Thread pools, race conditions, high-volume ingestion |
+| **2026–Now** | Backend + Cloud Engineering | Reconciliation, auth, IAM, multi-cloud observability |
+
+</details>
+
+---
+
+<a id="code"></a>
+
+<div align="center">
+
+## `// CODE TERMINAL`
+
+<table align="center">
+<tr>
+<td width="50%" align="center">
+
+<a href="https://leetcode.com/u/MR-Blu/">
+<img src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" width="48" alt="LeetCode" />
+</a>
+
+### LEETCODE · `MR-Blu`
+
+**90 Java** · **29 MySQL** · **1 JavaScript**
+
+`Dynamic Programming` · `Database`  
+`Array` · `String` · `Two Pointers`
+
+[OPEN PROFILE ↗](https://leetcode.com/u/MR-Blu/)
+
+</td>
+<td width="50%" align="center">
+
+<a href="https://www.hackerrank.com/profile/MR_Blu">
+<img src="https://upload.wikimedia.org/wikipedia/commons/6/65/HackerRank_logo.png" width="55" alt="HackerRank" />
+</a>
+
+### HACKERRANK · `MR_Blu`
+
+**Java Developer**
+
+`Problem Solving · Basic`  
+`Problem Solving · Intermediate`  
+`Python · Basic` · `SQL · Basic`
+
+[OPEN PROFILE ↗](https://www.hackerrank.com/profile/MR_Blu)
+
+</td>
+</tr>
+</table>
+
+<details>
+<summary><b>↳ OPEN HACKERRANK CERTIFICATES</b></summary>
+
+<br>
+
+[Problem Solving](https://www.hackerrank.com/certificates/1d8d323aa708) ·
+[Problem Solving](https://www.hackerrank.com/certificates/3e48f793c15e) ·
+[Python](https://www.hackerrank.com/certificates/21e9743aed89) ·
+[SQL](https://www.hackerrank.com/certificates/717ae1a5aeda)
+
+</details>
+
+</div>
+
+---
+
+<a id="awards"></a>
+
+<div align="center">
+
+## `// TROPHY VAULT`
+
+<img src="./assets/awards.gif" alt="Animated trophy vault" width="100%" />
+
+### `5× HIGHFLYER RECOGNITIONS`
+
+</div>
+
+<details>
+<summary><b>↳ OPEN AWARD RECORDS</b></summary>
+
+<br>
+
+| YEAR | CLASS | RECOGNITION |
+|:---:|:---:|:---|
+| **2025** | 🟨 ANNUAL | **Annual Award — Highflyer** |
+| **2024** | 🟥 APPLAUSE | **Award of Applause — Highflyer Q2** |
+| **2023** | 🟦 APPLAUSE | **Award of Applause — Highflyer H1** |
+| **2021** | 🟪 TEAM | **Team of the Year — Highflyer** |
+| **2021** | 🟦 STAR | **Star Team Award — Highflyer Q3** |
+
+</details>
+
+---
+
+<div align="center">
+
+## `// EDUCATION NODE`
+
+**KIIT · B.Tech — Computer Science & System Design**  
+**CGPA 9.0** · 2018 — 2022
+
+<br>
+
+<a href="mailto:manish12042000@gmail.com"><kbd>EMAIL</kbd></a>
+<a href="https://www.linkedin.com/in/manishranjanbehera/"><kbd>LINKEDIN</kbd></a>
+<a href="https://github.com/MrBlu1204"><kbd>GITHUB</kbd></a>
+<a href="https://leetcode.com/u/MR-Blu/"><kbd>LEETCODE</kbd></a>
+<a href="https://www.hackerrank.com/profile/MR_Blu"><kbd>HACKERRANK</kbd></a>
+
+<br><br>
+
+`BUILD WHAT MATTERS.`  ·  `DEBUG THE IMPOSSIBLE.`  ·  `KEEP SHIPPING.`
+
+</div>
