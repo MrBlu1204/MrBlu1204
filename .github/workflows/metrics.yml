@@ -1,0 +1,30 @@
+name: Update profile visuals
+
+on:
+  schedule:
+    - cron: "17 3 * * *"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  github-metrics:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: lowlighter/metrics@latest
+        with:
+          filename: assets/github-metrics.svg
+          token: ${{ secrets.GITHUB_TOKEN }}
+          user: MrBlu1204
+          template: classic
+          base: header, activity, community, repositories
+          config_timezone: Asia/Kolkata
+          config_display: large
+          config_animations: yes
+          plugin_languages: yes
+          plugin_languages_sections: most-used
+          plugin_languages_limit: 8
+          plugin_languages_details: bytes-size, percentage
+          plugin_stars: yes
+          plugin_stars_limit: 6
