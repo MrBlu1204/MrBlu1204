@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="360" viewBox="0 0 1200 360" role="img" aria-labelledby="t d">
+  <title id="t">Engineering impact</title><desc id="d">Key engineering outcomes from Manish Ranjan Behera's career.</desc>
+  <rect width="1200" height="360" rx="24" fill="#0b1220"/>
+  <g font-family="Arial, Helvetica, sans-serif">
+    <text x="48" y="55" fill="#8be9fd" font-size="24" font-weight="700">ENGINEERING IMPACT</text>
+    <text x="48" y="82" fill="#8fa8bd" font-size="14">Production outcomes, not just technologies.</text>
+    <g transform="translate(48,110)">
+      <g><rect width="260" height="95" rx="16" fill="#111d30" stroke="#1d3850"/><text x="22" y="42" fill="#ffffff" font-size="31" font-weight="800">100%</text><text x="22" y="70" fill="#95afc6" font-size="13">ledger traceability</text></g>
+      <g transform="translate(278,0)"><rect width="260" height="95" rx="16" fill="#111d30" stroke="#1d3850"/><text x="22" y="42" fill="#ffffff" font-size="31" font-weight="800">99%</text><text x="22" y="70" fill="#95afc6" font-size="13">uptime SLA maintained</text></g>
+      <g transform="translate(556,0)"><rect width="260" height="95" rx="16" fill="#111d30" stroke="#1d3850"/><text x="22" y="42" fill="#ffffff" font-size="31" font-weight="800">25% ↑</text><text x="22" y="70" fill="#95afc6" font-size="13">system throughput</text></g>
+      <g transform="translate(834,0)"><rect width="260" height="95" rx="16" fill="#111d30" stroke="#1d3850"/><text x="22" y="42" fill="#ffffff" font-size="31" font-weight="800">15% ↓</text><text x="22" y="70" fill="#95afc6" font-size="13">API latency</text></g>
+      <g transform="translate(0,115)"><rect width="260" height="95" rx="16" fill="#111d30" stroke="#1d3850"/><text x="22" y="42" fill="#ffffff" font-size="31" font-weight="800">400K+</text><text x="22" y="70" fill="#95afc6" font-size="13">requests / client / day</text></g>
+      <g transform="translate(278,115)"><rect width="260" height="95" rx="16" fill="#111d30" stroke="#1d3850"/><text x="22" y="42" fill="#ffffff" font-size="31" font-weight="800">35% ↓</text><text x="22" y="70" fill="#95afc6" font-size="13">processing time</text></g>
+      <g transform="translate(556,115)"><rect width="260" height="95" rx="16" fill="#111d30" stroke="#1d3850"/><text x="22" y="42" fill="#ffffff" font-size="31" font-weight="800">25% ↓</text><text x="22" y="70" fill="#95afc6" font-size="13">support-ticket volume</text></g>
+      <g transform="translate(834,115)"><rect width="260" height="95" rx="16" fill="#111d30" stroke="#1d3850"/><text x="22" y="42" fill="#ffffff" font-size="31" font-weight="800">8 hrs/wk</text><text x="22" y="70" fill="#95afc6" font-size="13">manual analysis saved</text></g>
+    </g>
+  </g>
+</svg>

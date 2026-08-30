@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="260" viewBox="0 0 1200 260" role="img" aria-labelledby="t d">
+<title id="t">Career journey</title><desc id="d">Career progression from machine learning and data analytics into software engineering.</desc>
+<rect width="1200" height="260" rx="24" fill="#0b1220"/>
+<g font-family="Arial, Helvetica, sans-serif">
+<text x="48" y="48" fill="#8be9fd" font-size="23" font-weight="700">CAREER ARC</text>
+<text x="48" y="72" fill="#8fa8bd" font-size="14">From prediction models → data systems → backend and cloud engineering.</text>
+<line x1="90" y1="145" x2="1110" y2="145" stroke="#31506b" stroke-width="4"/>
+<g>
+<circle cx="110" cy="145" r="13" fill="#67e8f9"/><text x="86" y="121" fill="#e8f8ff" font-size="13" font-weight="700">2021–22</text><text x="55" y="186" fill="#d6e5f2" font-size="13">ML / Analytics</text><text x="42" y="207" fill="#839eb4" font-size="11">Prediction models</text>
+<circle cx="355" cy="145" r="13" fill="#67e8f9"/><text x="331" y="121" fill="#e8f8ff" font-size="13" font-weight="700">2022–23</text><text x="312" y="186" fill="#d6e5f2" font-size="13">Data Engineering</text><text x="306" y="207" fill="#839eb4" font-size="11">Python · SQL · pipelines</text>
+<circle cx="600" cy="145" r="13" fill="#67e8f9"/><text x="576" y="121" fill="#e8f8ff" font-size="13" font-weight="700">2024</text><text x="562" y="186" fill="#d6e5f2" font-size="13">Backend</text><text x="530" y="207" fill="#839eb4" font-size="11">Java · Spring Boot · APIs</text>
+<circle cx="845" cy="145" r="13" fill="#67e8f9"/><text x="819" y="121" fill="#e8f8ff" font-size="13" font-weight="700">2025</text><text x="785" y="186" fill="#d6e5f2" font-size="13">Concurrency</text><text x="757" y="207" fill="#839eb4" font-size="11">Threads · ETL · reliability</text>
+<circle cx="1090" cy="145" r="16" fill="#a78bfa"><animate attributeName="r" values="13;17;13" dur="2s" repeatCount="indefinite"/></circle><text x="1064" y="121" fill="#ffffff" font-size="13" font-weight="700">2026 →</text><text x="1042" y="186" fill="#ffffff" font-size="13" font-weight="700">Backend + Cloud</text><text x="1017" y="207" fill="#aabed0" font-size="11">Java · Cloud · Observability</text>
+</g></g></svg>
