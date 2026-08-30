@@ -1,14 +1,58 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="220" viewBox="0 0 1200 220" role="img" aria-labelledby="t d">
-<title id="t">Highflyer awards</title><desc id="d">Five Highflyer awards from 2021 to 2025.</desc>
-<rect width="1200" height="220" rx="24" fill="#0b1220"/>
-<g font-family="Arial, Helvetica, sans-serif">
-<text x="48" y="48" fill="#8be9fd" font-size="23" font-weight="700">RECOGNITION</text>
-<text x="48" y="74" fill="#8fa8bd" font-size="14">5× Highflyer recognition across the career.</text>
-<line x1="120" y1="142" x2="1080" y2="142" stroke="#3b536a" stroke-width="4"/>
-<g fill="#f8fafc" text-anchor="middle">
-<g><circle cx="150" cy="142" r="21" fill="#13283a"><animate attributeName="opacity" values=".6;1;.6" dur="2.5s" repeatCount="indefinite"/><text x="150" y="149" fill="#67e8f9" font-size="17">★</text></circle><text x="150" y="104" font-size="12">2021 · Q3</text><text x="150" y="184" fill="#a7bdcf" font-size="10">Star Team</text></g>
-<g><circle cx="390" cy="142" r="21" fill="#13283a"><animate attributeName="opacity" values="1;.65;1" dur="2.2s" repeatCount="indefinite"/><text x="390" y="149" fill="#67e8f9" font-size="17">★</text></circle><text x="390" y="104" font-size="12">2021 · Annual</text><text x="390" y="184" fill="#a7bdcf" font-size="10">Team of the Year</text></g>
-<g><circle cx="630" cy="142" r="21" fill="#13283a"><animate attributeName="opacity" values=".7;1;.7" dur="2.8s" repeatCount="indefinite"/><text x="630" y="149" fill="#67e8f9" font-size="17">★</text></circle><text x="630" y="104" font-size="12">2023 · H1</text><text x="630" y="184" fill="#a7bdcf" font-size="10">Award of Applause</text></g>
-<g><circle cx="870" cy="142" r="21" fill="#13283a"><animate attributeName="opacity" values="1;.7;1" dur="2s" repeatCount="indefinite"/><text x="870" y="149" fill="#67e8f9" font-size="17">★</text></circle><text x="870" y="104" font-size="12">2024 · Q2</text><text x="870" y="184" fill="#a7bdcf" font-size="10">Award of Applause</text></g>
-<g><circle cx="1080" cy="142" r="21" fill="#2b2450"><text x="1080" y="149" fill="#c4b5fd" font-size="17">★</text><circle cx="1080" cy="142" r="28" fill="none" stroke="#a78bfa" stroke-width="2" stroke-dasharray="4 8"><animateTransform attributeName="transform" type="rotate" from="0 1080 142" to="360 1080 142" dur="8s" repeatCount="indefinite"/></circle></circle><text x="1080" y="104" font-size="12">2025 · Annual</text><text x="1080" y="184" fill="#a7bdcf" font-size="10">Highflyer Award</text></g>
-</g></g></svg>
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="230" viewBox="0 0 1200 230">
+<defs>
+
+<pattern id="dots" width="14" height="14" patternUnits="userSpaceOnUse">
+  <circle cx="2" cy="2" r="1.5" fill="#ff2d55" opacity=".33"/>
+  <circle cx="9" cy="9" r="1.5" fill="#21e6ff" opacity=".20"/>
+</pattern>
+<filter id="glowR"><feGaussianBlur stdDeviation="3" result="b"/><feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge></filter>
+<filter id="glowC"><feGaussianBlur stdDeviation="3" result="b"/><feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge></filter>
+<linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+  <stop offset="0" stop-color="#07080d"/><stop offset=".5" stop-color="#120b1b"/><stop offset="1" stop-color="#06070b"/>
+</linearGradient>
+
+</defs>
+
+<rect width="1200" height="230" fill="#090a10"/>
+<rect x="20" y="18" width="1160" height="192" fill="#0d0f17" stroke="#ff2d55" stroke-width="2"/>
+<text x="42" y="48" font-family="Arial Black, Arial" font-size="27" fill="#f4f0e8">TROPHY VAULT</text>
+<text x="44" y="69" font-family="Courier New, monospace" font-size="12" fill="#ffd83d">5× HIGHLFYER RECOGNITIONS // ARCHIVE UNLOCKED</text>
+
+<g transform="translate(66,88)">
+  <g transform="translate(0,0)">
+    <path d="M24 8 H76 V35 Q76 62 50 74 Q24 62 24 35Z" fill="#ffd83d" stroke="#1a1510" stroke-width="4"/>
+    <path d="M24 18 H6 Q4 44 27 44 M76 18 H94 Q96 44 73 44" fill="none" stroke="#ffd83d" stroke-width="7"/>
+    <rect x="44" y="70" width="12" height="19" fill="#ffd83d"/><rect x="28" y="89" width="44" height="7" fill="#ffd83d"/>
+    <text x="50" y="121" text-anchor="middle" font-family="Courier New, monospace" font-size="12" fill="#f4f0e8">2021</text>
+    <text x="50" y="138" text-anchor="middle" font-family="Arial Black, Arial" font-size="10" fill="#ff2d55">STAR TEAM</text>
+  </g>
+  <g transform="translate(220,0)">
+    <path d="M24 8 H76 V35 Q76 62 50 74 Q24 62 24 35Z" fill="#21e6ff" stroke="#071116" stroke-width="4"/>
+    <path d="M24 18 H6 Q4 44 27 44 M76 18 H94 Q96 44 73 44" fill="none" stroke="#21e6ff" stroke-width="7"/>
+    <rect x="44" y="70" width="12" height="19" fill="#21e6ff"/><rect x="28" y="89" width="44" height="7" fill="#21e6ff"/>
+    <text x="50" y="121" text-anchor="middle" font-family="Courier New, monospace" font-size="12" fill="#f4f0e8">2021</text>
+    <text x="50" y="138" text-anchor="middle" font-family="Arial Black, Arial" font-size="10" fill="#21e6ff">TEAM OF THE YEAR</text>
+  </g>
+  <g transform="translate(440,0)">
+    <path d="M24 8 H76 V35 Q76 62 50 74 Q24 62 24 35Z" fill="#9b5cff" stroke="#12091f" stroke-width="4"/>
+    <path d="M24 18 H6 Q4 44 27 44 M76 18 H94 Q96 44 73 44" fill="none" stroke="#9b5cff" stroke-width="7"/>
+    <rect x="44" y="70" width="12" height="19" fill="#9b5cff"/><rect x="28" y="89" width="44" height="7" fill="#9b5cff"/>
+    <text x="50" y="121" text-anchor="middle" font-family="Courier New, monospace" font-size="12" fill="#f4f0e8">2023</text>
+    <text x="50" y="138" text-anchor="middle" font-family="Arial Black, Arial" font-size="10" fill="#9b5cff">APPLAUSE · H1</text>
+  </g>
+  <g transform="translate(660,0)">
+    <path d="M24 8 H76 V35 Q76 62 50 74 Q24 62 24 35Z" fill="#ff2d55" stroke="#1c0710" stroke-width="4"/>
+    <path d="M24 18 H6 Q4 44 27 44 M76 18 H94 Q96 44 73 44" fill="none" stroke="#ff2d55" stroke-width="7"/>
+    <rect x="44" y="70" width="12" height="19" fill="#ff2d55"/><rect x="28" y="89" width="44" height="7" fill="#ff2d55"/>
+    <text x="50" y="121" text-anchor="middle" font-family="Courier New, monospace" font-size="12" fill="#f4f0e8">2024</text>
+    <text x="50" y="138" text-anchor="middle" font-family="Arial Black, Arial" font-size="10" fill="#ff2d55">APPLAUSE · Q2</text>
+  </g>
+  <g transform="translate(880,0)">
+    <path d="M24 8 H76 V35 Q76 62 50 74 Q24 62 24 35Z" fill="#ffd83d" stroke="#1a1510" stroke-width="4"/>
+    <path d="M24 18 H6 Q4 44 27 44 M76 18 H94 Q96 44 73 44" fill="none" stroke="#ffd83d" stroke-width="7"/>
+    <rect x="44" y="70" width="12" height="19" fill="#ffd83d"/><rect x="28" y="89" width="44" height="7" fill="#ffd83d"/>
+    <text x="50" y="121" text-anchor="middle" font-family="Courier New, monospace" font-size="12" fill="#f4f0e8">2025</text>
+    <text x="50" y="138" text-anchor="middle" font-family="Arial Black, Arial" font-size="10" fill="#ffd83d">ANNUAL AWARD</text>
+  </g>
+</g>
+</svg>

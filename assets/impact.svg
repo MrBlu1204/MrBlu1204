@@ -1,0 +1,29 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="170" viewBox="0 0 1200 170">
+<defs>
+
+<pattern id="dots" width="14" height="14" patternUnits="userSpaceOnUse">
+  <circle cx="2" cy="2" r="1.5" fill="#ff2d55" opacity=".33"/>
+  <circle cx="9" cy="9" r="1.5" fill="#21e6ff" opacity=".20"/>
+</pattern>
+<filter id="glowR"><feGaussianBlur stdDeviation="3" result="b"/><feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge></filter>
+<filter id="glowC"><feGaussianBlur stdDeviation="3" result="b"/><feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge></filter>
+<linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+  <stop offset="0" stop-color="#07080d"/><stop offset=".5" stop-color="#120b1b"/><stop offset="1" stop-color="#06070b"/>
+</linearGradient>
+
+</defs>
+
+<rect width="1200" height="170" fill="#08090f"/>
+<rect width="1200" height="170" fill="url(#dots)" opacity=".65"/>
+<path d="M26 18 H1174" stroke="#ff2d55" stroke-width="5"/>
+<path d="M26 153 H1174" stroke="#21e6ff" stroke-width="3"/>
+<text x="28" y="47" font-family="Arial Black, Arial" font-size="27" fill="#f4f0e8">ENGINEERING IMPACT</text>
+<text x="32" y="71" font-family="Courier New, monospace" font-size="13" fill="#9b5cff">MEASURED. NOT MARKETED.</text>
+<g transform="translate(28,88)" font-family="Arial Black, Arial" text-anchor="middle">
+  <g><rect x="0" y="0" width="205" height="58" fill="#10121a" stroke="#ff2d55" stroke-width="2"/><text x="102" y="25" font-size="25" fill="#ff2d55">99%</text><text x="102" y="44" font-size="11" fill="#f4f0e8">UPTIME SLA</text></g>
+  <g><rect x="223" y="0" width="205" height="58" fill="#10121a" stroke="#21e6ff" stroke-width="2"/><text x="325" y="25" font-size="25" fill="#21e6ff">25% ↑</text><text x="325" y="44" font-size="11" fill="#f4f0e8">THROUGHPUT</text></g>
+  <g><rect x="446" y="0" width="205" height="58" fill="#10121a" stroke="#ffd83d" stroke-width="2"/><text x="548" y="25" font-size="25" fill="#ffd83d">15% ↓</text><text x="548" y="44" font-size="11" fill="#f4f0e8">API LATENCY</text></g>
+  <g><rect x="669" y="0" width="205" height="58" fill="#10121a" stroke="#9b5cff" stroke-width="2"/><text x="771" y="25" font-size="25" fill="#9b5cff">400K+</text><text x="771" y="44" font-size="11" fill="#f4f0e8">REQ / DAY / CLIENT</text></g>
+  <g><rect x="892" y="0" width="205" height="58" fill="#10121a" stroke="#ff2d55" stroke-width="2"/><text x="994" y="25" font-size="25" fill="#ff2d55">100%</text><text x="994" y="44" font-size="11" fill="#f4f0e8">DATA / LEDGER</text></g>
+</g>
+</svg>

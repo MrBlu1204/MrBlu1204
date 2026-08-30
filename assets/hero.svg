@@ -1,46 +1,58 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="300" viewBox="0 0 1200 300" role="img" aria-labelledby="title desc">
-  <title id="title">Manish Ranjan Behera — Software Engineer</title>
-  <desc id="desc">Backend software engineer focused on Java, Spring Boot, distributed systems, data pipelines and cloud.</desc>
-  <defs>
-    <linearGradient id="bg" x1="0" x2="1" y1="0" y2="1">
-      <stop offset="0" stop-color="#08111f"/>
-      <stop offset="0.5" stop-color="#102a43"/>
-      <stop offset="1" stop-color="#153e5c"/>
-    </linearGradient>
-    <linearGradient id="line" x1="0" x2="1">
-      <stop offset="0" stop-color="#67e8f9" stop-opacity="0"/>
-      <stop offset="0.45" stop-color="#67e8f9" stop-opacity=".9"/>
-      <stop offset="1" stop-color="#a78bfa" stop-opacity="0"/>
-    </linearGradient>
-    <filter id="glow"><feGaussianBlur stdDeviation="5" result="b"/><feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge></filter>
-  </defs>
-  <rect width="1200" height="300" rx="26" fill="url(#bg)"/>
-  <circle cx="1060" cy="40" r="105" fill="#67e8f9" opacity=".06"/>
-  <circle cx="1120" cy="230" r="160" fill="#a78bfa" opacity=".05"/>
-  <g opacity=".24" stroke="#8bdcf4" stroke-width="1">
-    <path d="M0 240 H1200"/><path d="M0 210 H1200"/><path d="M0 180 H1200"/>
-    <path d="M150 0 V300"/><path d="M300 0 V300"/><path d="M450 0 V300"/><path d="M600 0 V300"/><path d="M750 0 V300"/><path d="M900 0 V300"/><path d="M1050 0 V300"/>
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="360" viewBox="0 0 1200 360">
+<defs>
+
+<pattern id="dots" width="14" height="14" patternUnits="userSpaceOnUse">
+  <circle cx="2" cy="2" r="1.5" fill="#ff2d55" opacity=".33"/>
+  <circle cx="9" cy="9" r="1.5" fill="#21e6ff" opacity=".20"/>
+</pattern>
+<filter id="glowR"><feGaussianBlur stdDeviation="3" result="b"/><feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge></filter>
+<filter id="glowC"><feGaussianBlur stdDeviation="3" result="b"/><feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge></filter>
+<linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+  <stop offset="0" stop-color="#07080d"/><stop offset=".5" stop-color="#120b1b"/><stop offset="1" stop-color="#06070b"/>
+</linearGradient>
+
+</defs>
+
+<rect width="1200" height="360" fill="url(#bg)"/>
+<rect width="1200" height="360" fill="url(#dots)"/>
+<!-- offset comic shadows -->
+<text x="64" y="132" font-family="Arial Black, Arial" font-size="88" font-weight="900"
+      fill="#21e6ff" opacity=".55" transform="translate(9,0)">MR. BLU</text>
+<text x="64" y="132" font-family="Arial Black, Arial" font-size="88" font-weight="900"
+      fill="#ff2d55" opacity=".55" transform="translate(-7,0)">MR. BLU</text>
+<text x="64" y="132" font-family="Arial Black, Arial" font-size="88" font-weight="900"
+      fill="#f4f0e8">MR. BLU</text>
+
+<!-- crown / graffiti mark -->
+<path d="M70 60 l18-24 14 16 18-23 16 30 22-9 -10 29 H78 Z"
+      fill="#ffd83d" stroke="#111" stroke-width="6"/>
+<text x="72" y="174" font-family="Arial Black, Arial" font-size="28" font-weight="900" fill="#ff3b72">MANISH RANJAN BEHERA</text>
+<rect x="64" y="198" width="420" height="42" rx="4" fill="#f4f0e8"/>
+<text x="82" y="228" font-family="Arial Black, Arial" font-size="25" font-weight="900" fill="#101118">SOFTWARE ENGINEER</text>
+
+<!-- domain chips -->
+<g font-family="Courier New, monospace" font-size="16" font-weight="700">
+  <rect x="64" y="258" width="104" height="34" fill="#ff2d55"/><text x="77" y="281" fill="#fff">BACKEND</text>
+  <rect x="178" y="258" width="188" height="34" fill="#21e6ff"/><text x="191" y="281" fill="#081018">DISTRIBUTED</text>
+  <rect x="376" y="258" width="102" height="34" fill="#ffd83d"/><text x="390" y="281" fill="#17110a">CLOUD</text>
+  <rect x="488" y="258" width="152" height="34" fill="#9b5cff"/><text x="503" y="281" fill="#fff">DATA PIPELINES</text>
+</g>
+
+<!-- web / spider emblem -->
+<g transform="translate(865,175)">
+  <circle r="118" fill="#090a11" stroke="#ff2d55" stroke-width="4"/>
+  <circle r="96" fill="none" stroke="#21e6ff" stroke-width="2" opacity=".7"/>
+  <g stroke="#ff2d55" stroke-width="4" opacity=".82">
+    <path d="M-94 0 H94 M0-94 V94 M-66-66 L66 66 M-66 66 L66-66"/>
+    <path d="M-32-88 Q0-38 32-88 M-88-32 Q-38 0-88 32 M-32 88 Q0 38 32 88 M88-32 Q38 0 88 32"/>
   </g>
-  <g transform="translate(70,55)">
-    <text x="0" y="36" fill="#d9f7ff" font-family="Arial, Helvetica, sans-serif" font-size="34" font-weight="700">MANISH RANJAN BEHERA</text>
-    <text x="0" y="76" fill="#8be9fd" font-family="Arial, Helvetica, sans-serif" font-size="22" font-weight="600">Software Engineer · Backend · Distributed Systems · Cloud</text>
-    <text x="0" y="116" fill="#bdd3e6" font-family="Arial, Helvetica, sans-serif" font-size="16">4+ years turning production problems into scalable, reliable systems.</text>
-    <rect x="0" y="148" width="920" height="2" fill="url(#line)" filter="url(#glow)"/>
-    <text x="0" y="183" fill="#d7e7f5" font-family="Arial, Helvetica, sans-serif" font-size="15">JAVA</text>
-    <text x="92" y="183" fill="#9cc8df" font-family="Arial, Helvetica, sans-serif" font-size="15">•</text>
-    <text x="116" y="183" fill="#d7e7f5" font-family="Arial, Helvetica, sans-serif" font-size="15">SPRING BOOT</text>
-    <text x="263" y="183" fill="#9cc8df" font-family="Arial, Helvetica, sans-serif" font-size="15">•</text>
-    <text x="286" y="183" fill="#d7e7f5" font-family="Arial, Helvetica, sans-serif" font-size="15">MICROSERVICES</text>
-    <text x="467" y="183" fill="#9cc8df" font-family="Arial, Helvetica, sans-serif" font-size="15">•</text>
-    <text x="490" y="183" fill="#d7e7f5" font-family="Arial, Helvetica, sans-serif" font-size="15">DATA PIPELINES</text>
-    <text x="678" y="183" fill="#9cc8df" font-family="Arial, Helvetica, sans-serif" font-size="15">•</text>
-    <text x="701" y="183" fill="#d7e7f5" font-family="Arial, Helvetica, sans-serif" font-size="15">AWS / GCP</text>
-  </g>
-  <g transform="translate(1000,78)">
-    <circle cx="52" cy="52" r="52" fill="#0b1c2a" stroke="#6ee7f9" stroke-width="2"/>
-    <circle cx="52" cy="52" r="34" fill="none" stroke="#6ee7f9" stroke-width="3" stroke-dasharray="10 8">
-      <animateTransform attributeName="transform" type="rotate" from="0 52 52" to="360 52 52" dur="16s" repeatCount="indefinite"/>
-    </circle>
-    <path d="M38 52h28M52 38v28" stroke="#dff9ff" stroke-width="4" stroke-linecap="round"/>
-  </g>
+  <path d="M0-48 C-31-28-34 22 0 52 C34 22 31-28 0-48Z" fill="#10131c" stroke="#f4f0e8" stroke-width="3"/>
+  <path d="M-7-30 L-22-10 L-5-3 L-20 20 L0 8 L20 20 L5-3 L22-10 L7-30Z" fill="#ff2d55"/>
+  <path d="M-53 12 C-87 5-98 26-116 36 M-52 28 C-84 33-93 51-106 65 M53 12 C87 5 98 26 116 36 M52 28 C84 33 93 51 106 65"
+        fill="none" stroke="#21e6ff" stroke-width="5"/>
+</g>
+
+<!-- right telemetry -->
+<text x="1010" y="310" font-family="Courier New, monospace" font-size="14" fill="#ffd83d">NODE // 1204</text>
+<text x="1010" y="331" font-family="Courier New, monospace" font-size="14" fill="#f4f0e8">ONLINE</text>
 </svg>
