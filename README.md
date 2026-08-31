@@ -8,7 +8,7 @@
 
 <br/>
 
-<a href="https://manishranjanbehera.dev/">🌐 Portfolio</a> &nbsp;•&nbsp;
+<a href="https://yashwanth-patam-portfolio.vercel.app/">🌐 Portfolio</a> &nbsp;•&nbsp;
 <a href="https://www.linkedin.com/in/manishranjanbehera/">💼 LinkedIn</a> &nbsp;•&nbsp;
 <a href="https://github.com/MrBlu1204">🐙 GitHub</a> &nbsp;•&nbsp;
 <a href="https://leetcode.com/u/MR-Blu/">🧩 LeetCode</a> &nbsp;•&nbsp;
@@ -331,7 +331,7 @@ Backend systems · Java · Spring Boot · distributed systems · cloud engineeri
 
 <br/>
 
-<a href="https://manishranjanbehera.dev/">🌐 PORTFOLIO</a>
+<a href="https://yashwanth-patam-portfolio.vercel.app/">🌐 PORTFOLIO</a>
 &nbsp;•&nbsp;
 <a href="https://www.linkedin.com/in/manishranjanbehera/">💼 LINKEDIN</a>
 &nbsp;•&nbsp;
