@@ -28,9 +28,9 @@
 
 <a id="profile"></a>
 
-<table width="100%"><tr><td width="62%" valign="top">
-
 ## 👋 PROFILE
+
+<table width="100%"><tr><td width="62%" valign="top">
 
 ### Software Engineer · Backend · Distributed Systems · Cloud
 
@@ -69,20 +69,21 @@ SQL · MySQL · ClickHouse · Elasticsearch · Python
 
 | **4+** | **100%** | **35%** | **25%** | **99%** |
 |:---:|:---:|:---:|:---:|:---:|
-| Years | Traceability | Faster processing | Fewer tickets | Uptime SLA |
+| Years | Traceability / accuracy | Faster processing | Fewer support tickets | Uptime SLA |
 
 </div>
 
-<details><summary><strong>OPEN IMPACT LOG ↗</strong></summary>
+<details>
+<summary><strong>OPEN IMPACT LOG ↗</strong></summary>
 
 | Signal | Outcome |
 |:---|:---|
-| Financial reconciliation | **100% account-reconciliation traceability** for enterprise ledgers |
-| Microsoft Graph API ingestion | **100% data accuracy** across pipelines handling up to **400,000+ requests/day/client** |
-| Backend performance | **25% higher throughput** and **15% lower API latency** |
-| Query + calculation optimisation | **20% faster query execution** and **35% faster processing** |
-| Diagnostic automation | **25% fewer support tickets** and **8 hours/week saved** |
-| ETL concurrency | **10% lower batch-processing latency** with database lock-wait timeouts eliminated |
+| Financial reconciliation | **100% account-reconciliation traceability** |
+| Microsoft Graph API pipelines | **100% data accuracy** |
+| Query + calculation optimisation | **35% faster processing** |
+| Diagnostic tooling | **25% fewer support tickets** + **8 hrs/week saved** |
+| ETL concurrency tuning | **10% lower batch-processing latency** |
+| High-volume ingestion | Up to **400,000+ requests/day/client** |
 
 </details>
 
@@ -119,6 +120,8 @@ SQL · MySQL · ClickHouse · Elasticsearch · Python
 
 `AWS` · `GCP` · `Azure` · `Docker` · `Kubernetes` · `Jenkins` · `GitLab CI/CD`
 
+`Prometheus` · `Grafana` · `CloudWatch` · `Google Cloud SQL`
+
 </div>
 
 ---
@@ -127,34 +130,41 @@ SQL · MySQL · ClickHouse · Elasticsearch · Python
 
 ## 💼 EXPERIENCE
 
-### Technical Consultant II (Software Engineer) · HighRadius Technologies Pvt. Ltd.
-`Jan 2026 → Present` · Hyderabad, Telangana
+<div align="center"><strong>HighRadius Technologies Pvt. Ltd. · Hyderabad, Telangana</strong></div>
 
-- Architect and deploy a full-stack **Promise to Pay (P2P)** feature using Java and SQL, automating Credit Note processing and achieving **100% traceability** for enterprise ledgers.
-- Resolve Java controller and SMTP integration failures, restoring reliable **One-Time Code (OTC)** delivery for password-reset workflows.
-- Monitor and debug multi-cloud infrastructure across **AWS, GCP and Azure** using Prometheus and Grafana, maintaining a **99% uptime SLA**.
-- Remediate multi-tenant database mapping defects, improving **IAM reliability** and eliminating arbitrary session terminations.
+<details>
+<summary><strong>OPEN EXPERIENCE DOSSIER ↗</strong></summary>
 
-### Technical Consultant I (Software Engineer) · HighRadius Technologies Pvt. Ltd.
+### Technical Consultant II (Software Engineer)
+`Jan 2026 → Present`
+
+- Architect and deploy a full-stack **Promise to Pay (P2P)** feature spanning Java, SQL and JavaScript, automating Credit Note processing and achieving **100% account reconciliation traceability**.
+- Resolve a millisecond-level **Java concurrency race condition** in data-ingestion agents, achieving **100% data accuracy** across Microsoft Graph API pipelines.
+- Remediate cross-tenant database-mapping defects in core backend services, eliminating unintended user logouts and improving IAM reliability across **7 enterprise environments**.
+- Use **GitHub Copilot** for code completion, boilerplate generation and test scaffolding, and **Google Gemini** for code-path analysis and documentation.
+
+### Technical Consultant I (Software Engineer)
 `Jan 2025 → Dec 2025`
 
-- Tuned Java 17 thread pools and execution concurrency for large-scale ETL pipelines, eliminating database lock-wait timeouts and reducing batch latency by **10%**.
-- Resolved a millisecond-level Java concurrency race condition in data-ingestion agents, guaranteeing **100% data accuracy** across Microsoft Graph API pipelines.
-- Restored Generative AI production workflows by resolving third-party API authentication and cloud-storage integration bottlenecks.
+- Optimize large-scale ETL pipelines by tuning **Java 17 thread pools and execution concurrency**, eliminating database lock-wait timeouts and reducing processing latency by **10%**.
+- Integrate and stabilize Java authentication-controller and SMTP workflows, restoring reliable **One-Time Code (OTC)** delivery for enterprise password-reset workflows.
+- Restore Generative AI production workflows by resolving third-party API authentication and cloud-storage integration issues impacting machine-learning model execution.
 
-### Associate Technical Consultant II (Software Engineer) · HighRadius Technologies Pvt. Ltd.
+### Associate Technical Consultant II (Software Engineer)
 `Jan 2024 → Dec 2024`
 
-- Engineered scalable Java/Spring Boot backend microservices, increasing throughput by **25%** and reducing API latency by **15%**.
-- Developed diagnostic tooling that reduced support-ticket volume by **25%** and saved **8 hours/week** of manual analysis.
-- Diagnosed Hibernate ORM mapping and thread-management failures, preventing recurring background-job failures and restoring data consistency.
+- Engineer scalable Java/Spring Boot backend microservices, increasing overall system throughput by **25%** and reducing API latency by **15%**.
+- Develop internal Java diagnostic tooling across product modules, reducing support-ticket volume by **25%** and saving approximately **8 hours/week** of manual analysis.
+- Diagnose and eliminate Hibernate ORM entity-mapping failures and thread-management bottlenecks, preventing recurring background-job failures and restoring data consistency.
 
-### Associate Data Analyst I & II (Data / Analytics Engineering) · HighRadius Technologies Pvt. Ltd.
+### Associate Data Analyst I & II (Data / Analytics Engineering)
 `Jul 2022 → Dec 2023`
 
-- Built automated Python and SQL pipelines for recurring reporting workflows, reducing manual data-preparation effort by **50%**.
-- Optimised relational queries and backend calculation models, cutting query execution time by **20%** and processing time by **35%**.
-- Authored generic SQL stored procedures to remediate system-wide corruption caused by invalid payloads, reducing related support tickets by **15% quarterly**.
+- Build and deploy automated **Python and SQL** data pipelines for recurring reporting workflows, reducing manual data-preparation effort by **50%**.
+- Streamline relational database queries and redesign backend calculation models, cutting **query execution time by 20%** and **processing time by 35%**.
+- Author generic SQL stored procedures to remediate system-wide database corruption caused by invalid payloads, reducing related support-ticket volume by **15% quarterly**.
+
+</details>
 
 ---
 
@@ -187,7 +197,7 @@ SQL · MySQL · ClickHouse · Elasticsearch · Python
 
 ## 🏆 RECOGNITION
 
-<div align="center"><img src="./assets/awards.gif" width="100%" alt="Awards and recognition" /></div>
+<div align="center"><img src="./assets/awards-theme.svg" width="100%" alt="Portfolio-themed awards and recognition banner" /></div>
 
 <details><summary><strong>OPEN AWARD ARCHIVE ↗</strong></summary>
 
@@ -217,7 +227,7 @@ SQL · MySQL · ClickHouse · Elasticsearch · Python
 
 <a href="mailto:manish12042000@gmail.com"><img src="https://cdn.simpleicons.org/gmail/EA4335" width="30" alt="Gmail" /></a>
 &nbsp;
-<a href="https://www.linkedin.com/in/manishranjanbehera/"><img src="https://upload.wikimedia.org/wikipedia/commons/e/e8/Linkedin-logo-blue-In-square-40px.png?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=original" width="30" alt="LinkedIn" /></a>
+<a href="https://www.linkedin.com/in/manishranjanbehera/"><img src="https://cdn.simpleicons.org/linkedin/0A66C2" width="30" alt="LinkedIn" /></a>
 &nbsp;
 <a href="https://github.com/MrBlu1204"><img src="https://cdn.simpleicons.org/github/FFFFFF" width="30" alt="GitHub" /></a>
 &nbsp;
