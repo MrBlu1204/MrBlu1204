@@ -20,7 +20,7 @@
 
 <br/><br/>
 
-<a href="https://raw.githubusercontent.com/MrBlu1204/MrBlu1204/main/assets/ManishRanjanBehera_Resume_v26.0820s.pdf"><strong>⬇ DOWNLOAD RESUME</strong></a>
+<a href="https://raw.githubusercontent.com/MrBlu1204/MrBlu1204/main/assets/ManishRanjanBehera_Resume.pdf"><strong>⬇ DOWNLOAD RESUME</strong></a>
 
 </div>
 
@@ -237,7 +237,7 @@ SQL · MySQL · ClickHouse · Elasticsearch · Python
 
 <br/><br/>
 
-<a href="https://raw.githubusercontent.com/MrBlu1204/MrBlu1204/main/assets/ManishRanjanBehera_Resume_v26.0820s.pdf"><strong>⬇ DOWNLOAD RESUME</strong></a>
+<a href="https://raw.githubusercontent.com/MrBlu1204/MrBlu1204/main/assets/ManishRanjanBehera_Resume.pdf"><strong>⬇ DOWNLOAD RESUME</strong></a>
 
 <br/><br/>
 
