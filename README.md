@@ -1,65 +1,54 @@
 <div align="center">
 
-# MANISH RANJAN BEHERA
-
-### Software Engineer · Backend · Distributed Systems · Cloud
-
-`Java` · `Spring Boot` · `Microservices` · `SQL` · `AWS` · `GCP` · `Azure`
+<img src="./assets/banner.svg" width="100%" alt="Manish Ranjan Behera — Software Engineer banner" />
 
 <br/>
 
-<a href="https://www.linkedin.com/in/manishranjanbehera/">💼 LinkedIn</a> &nbsp;•&nbsp;
-<a href="https://github.com/MrBlu1204">🐙 GitHub</a> &nbsp;•&nbsp;
-<a href="https://leetcode.com/u/MR-Blu/">🧩 LeetCode</a> &nbsp;•&nbsp;
-<a href="https://www.hackerrank.com/profile/MR_Blu">🏆 HackerRank</a> &nbsp;•&nbsp;
-<a href="mailto:manish12042000@gmail.com">✉️ Email</a>
+<a href="#profile"><kbd>PROFILE</kbd></a> &nbsp; <a href="#impact"><kbd>IMPACT</kbd></a> &nbsp; <a href="#stack"><kbd>STACK</kbd></a> &nbsp; <a href="#experience"><kbd>EXPERIENCE</kbd></a> &nbsp; <a href="#projects"><kbd>PROJECTS</kbd></a> &nbsp; <a href="#coding"><kbd>CODING</kbd></a> &nbsp; <a href="#recognition"><kbd>RECOGNITION</kbd></a> &nbsp; <a href="#contact"><kbd>CONTACT</kbd></a>
 
 <br/><br/>
 
-<a href="#about"><kbd>ABOUT</kbd></a>
-&nbsp;
-<a href="#impact"><kbd>IMPACT</kbd></a>
-&nbsp;
-<a href="#stack"><kbd>STACK</kbd></a>
-&nbsp;
-<a href="#experience"><kbd>EXPERIENCE</kbd></a>
-&nbsp;
-<a href="#projects"><kbd>PROJECTS</kbd></a>
-&nbsp;
-<a href="#coding"><kbd>CODING</kbd></a>
-&nbsp;
-<a href="#awards"><kbd>AWARDS</kbd></a>
-&nbsp;
-<a href="#contact"><kbd>CONTACT</kbd></a>
+<a href="mailto:manish12042000@gmail.com"><img src="https://cdn.simpleicons.org/gmail/EA4335" width="32" alt="Gmail" /></a>
+&nbsp;&nbsp;
+<a href="https://www.linkedin.com/in/manishranjanbehera/"><img src="https://cdn.simpleicons.org/linkedin/0A66C2" width="32" alt="LinkedIn" /></a>
+&nbsp;&nbsp;
+<a href="https://github.com/MrBlu1204"><img src="https://cdn.simpleicons.org/github/FFFFFF" width="32" alt="GitHub" /></a>
+&nbsp;&nbsp;
+<a href="https://leetcode.com/u/MR-Blu/"><img src="https://cdn.simpleicons.org/leetcode/FFA116" width="32" alt="LeetCode" /></a>
+&nbsp;&nbsp;
+<a href="https://www.hackerrank.com/profile/MR_Blu"><img src="https://cdn.simpleicons.org/hackerrank/00EA64" width="32" alt="HackerRank" /></a>
+
+<br/><br/>
+
+<a href="https://raw.githubusercontent.com/MrBlu1204/MrBlu1204/main/assets/ManishRanjanBehera_Resume_v26.0820s.pdf"><strong>⬇ DOWNLOAD RESUME</strong></a>
+&nbsp;&nbsp;•&nbsp;&nbsp;
+<a href="https://yashwanth-patam-portfolio.vercel.app/"><strong>VIEW REFERENCE PORTFOLIO ↗</strong></a>
 
 </div>
 
 ---
 
-<a id="about"></a>
+<a id="profile"></a>
 
-<table width="100%">
-<tr>
-<td width="60%" valign="top">
+<table width="100%"><tr><td width="62%" valign="top">
 
-## 👋 ABOUT ME
+## 👋 PROFILE
 
-I’m a software engineer focused on **backend engineering, distributed systems, production debugging and cloud infrastructure**.
+### Software Engineer · Backend · Distributed Systems · Cloud
 
-My core stack is **Java + Spring Boot + SQL**, with practical experience across REST APIs, microservices, concurrency, performance optimization, observability and cloud platforms.
+Software Engineer with **4+ years of experience** architecting scalable backend microservices, distributed data pipelines and cloud infrastructure using **Java, Spring Boot, AWS and Kubernetes**.
 
-I enjoy taking a complicated production problem, tracing it to the real failure point, and turning the fix into a measurable engineering improvement.
+I work across **REST APIs, microservices, SQL, multithreading, database optimisation, production debugging and observability**, with a strong focus on measurable reliability and performance improvements.
 
-</td>
-<td width="40%" valign="top">
+</td><td width="38%" valign="top">
 
-## ⚙️ ENGINEERING DNA
+### `ENGINEERING DNA`
 
 **BUILD**  
 Java · Spring Boot · Spring MVC · Hibernate · REST
 
 **SCALE**  
-Microservices · Multithreading · Distributed Systems · DSA
+Microservices · Distributed Systems · Multithreading · Kafka · Redis
 
 **OPERATE**  
 AWS · GCP · Azure · Docker · Kubernetes · CI/CD
@@ -68,11 +57,9 @@ AWS · GCP · Azure · Docker · Kubernetes · CI/CD
 Prometheus · Grafana · CloudWatch · Cloud SQL
 
 **DATA**  
-SQL · MySQL · Python · ETL · Redis · Kafka
+SQL · MySQL · ClickHouse · Elasticsearch · Python
 
-</td>
-</tr>
-</table>
+</td></tr></table>
 
 ---
 
@@ -82,25 +69,22 @@ SQL · MySQL · Python · ETL · Redis · Kafka
 
 <div align="center">
 
-| <strong>4+</strong> | <strong>100%</strong> | <strong>35%</strong> | <strong>25%</strong> | <strong>99%</strong> |
+| **4+** | **100%** | **35%** | **25%** | **99%** |
 |:---:|:---:|:---:|:---:|:---:|
-| Years across engineering & data | Traceability / accuracy | Faster processing | Fewer support tickets | Uptime target |
+| Years | Traceability | Faster processing | Fewer tickets | Uptime SLA |
 
 </div>
 
-<br/>
+<details><summary><strong>OPEN IMPACT LOG ↗</strong></summary>
 
-<details>
-<summary><strong>OPEN IMPACT LOG ↗</strong></summary>
-
-| Area | Engineering outcome |
+| Signal | Outcome |
 |:---|:---|
-| Financial reconciliation | **100% account-reconciliation traceability** |
-| Microsoft Graph API pipeline | **100% data accuracy** across ingestion flows |
-| Processing optimization | Up to **35% faster processing** through query/calculation optimization |
-| Support diagnostics | **25% fewer support tickets** through better troubleshooting and automation |
-| ETL / concurrency tuning | Measurable reduction in batch latency and resource contention |
-| Cloud observability | Production monitoring across **AWS, GCP and Azure** |
+| Financial reconciliation | **100% account-reconciliation traceability** for enterprise ledgers |
+| Microsoft Graph API ingestion | **100% data accuracy** across pipelines handling up to **400,000+ requests/day/client** |
+| Backend performance | **25% higher throughput** and **15% lower API latency** |
+| Query + calculation optimisation | **20% faster query execution** and **35% faster processing** |
+| Diagnostic automation | **25% fewer support tickets** and **8 hours/week saved** |
+| ETL concurrency | **10% lower batch-processing latency** with database lock-wait timeouts eliminated |
 
 </details>
 
@@ -112,19 +96,20 @@ SQL · MySQL · Python · ETL · Redis · Kafka
 
 <div align="center">
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="42" alt="Java"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" width="42" alt="Spring"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="42" alt="JavaScript"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="42" alt="Python"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="42" alt="MySQL"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" width="42" alt="Redis"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apachekafka/apachekafka-original.svg" width="42" alt="Kafka"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="42" alt="Docker"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" width="42" alt="Kubernetes"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="50" alt="AWS"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" width="42" alt="GCP"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/prometheus/prometheus-original.svg" width="42" alt="Prometheus"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/grafana/grafana-original.svg" width="42" alt="Grafana"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="42" alt="Java" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" width="42" alt="Spring Boot" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/hibernate/hibernate-original.svg" width="42" alt="Hibernate" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="42" alt="JavaScript" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="42" alt="Python" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="42" alt="MySQL" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" width="42" alt="Redis" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apachekafka/apachekafka-original.svg" width="42" alt="Kafka" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="42" alt="Docker" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" width="42" alt="Kubernetes" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="50" alt="AWS" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" width="42" alt="GCP" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/prometheus/prometheus-original.svg" width="42" alt="Prometheus" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/grafana/grafana-original.svg" width="42" alt="Grafana" />
 
 <br/><br/>
 
@@ -132,9 +117,9 @@ SQL · MySQL · Python · ETL · Redis · Kafka
 
 `REST APIs` · `Microservices` · `Multithreading` · `Distributed Systems`
 
-`SQL` · `MySQL` · `Redis` · `Kafka` · `Python` · `Maven`
+`SQL` · `MySQL` · `ClickHouse` · `Redis` · `Kafka` · `Python` · `Maven`
 
-`AWS` · `GCP` · `Azure` · `Docker` · `Kubernetes` · `GitLab CI/CD`
+`AWS` · `GCP` · `Azure` · `Docker` · `Kubernetes` · `Jenkins` · `GitLab CI/CD`
 
 </div>
 
@@ -144,98 +129,48 @@ SQL · MySQL · Python · ETL · Redis · Kafka
 
 ## 💼 EXPERIENCE
 
-<table width="100%">
-<tr>
-<td width="70%" valign="top">
+### Technical Consultant II (Software Engineer) · HighRadius Technologies Pvt. Ltd.
+`Jan 2026 → Present` · Hyderabad, Telangana
 
-### Associate Technical Consultant II — HighRadius Technologies
+- Architect and deploy a full-stack **Promise to Pay (P2P)** feature using Java and SQL, automating Credit Note processing and achieving **100% traceability** for enterprise ledgers.
+- Resolve Java controller and SMTP integration failures, restoring reliable **One-Time Code (OTC)** delivery for password-reset workflows.
+- Monitor and debug multi-cloud infrastructure across **AWS, GCP and Azure** using Prometheus and Grafana, maintaining a **99% uptime SLA**.
+- Remediate multi-tenant database mapping defects, improving **IAM reliability** and eliminating arbitrary session terminations.
 
-`Jan 2024 → Present` · Hyderabad, India
+### Technical Consultant I (Software Engineer) · HighRadius Technologies Pvt. Ltd.
+`Jan 2025 → Dec 2025`
 
-- Collaborate with consultants and development teams to configure, debug and stabilize enterprise finance workflows.
-- Diagnose Java/Spring Boot, integration, data and application-flow issues across production-facing systems.
-- Trace failures through controllers, services, ORM/database layers and external integrations to identify root causes rather than symptoms.
-- Optimize existing code paths, SQL queries and calculations for better processing performance.
-- Work with senior engineers on technically complex incidents while continuously strengthening backend engineering skills.
+- Tuned Java 17 thread pools and execution concurrency for large-scale ETL pipelines, eliminating database lock-wait timeouts and reducing batch latency by **10%**.
+- Resolved a millisecond-level Java concurrency race condition in data-ingestion agents, guaranteeing **100% data accuracy** across Microsoft Graph API pipelines.
+- Restored Generative AI production workflows by resolving third-party API authentication and cloud-storage integration bottlenecks.
 
-</td>
-<td width="30%" valign="top">
+### Associate Technical Consultant II (Software Engineer) · HighRadius Technologies Pvt. Ltd.
+`Jan 2024 → Dec 2024`
 
-**PRIMARY LANE**
+- Engineered scalable Java/Spring Boot backend microservices, increasing throughput by **25%** and reducing API latency by **15%**.
+- Developed diagnostic tooling that reduced support-ticket volume by **25%** and saved **8 hours/week** of manual analysis.
+- Diagnosed Hibernate ORM mapping and thread-management failures, preventing recurring background-job failures and restoring data consistency.
 
-`Java`
+### Associate Data Analyst I & II (Data / Analytics Engineering) · HighRadius Technologies Pvt. Ltd.
+`Jul 2022 → Dec 2023`
 
-`Spring Boot`
-
-`Hibernate`
-
-`SQL`
-
-`Debugging`
-
-`Performance`
-
-`Cloud Monitoring`
-
-</td>
-</tr>
-</table>
-
-<details>
-<summary><strong>OPEN CAREER TRACE ↗</strong></summary>
-
-| Stage | Focus |
-|:---:|:---|
-| **2021–22** | Analytics / machine learning foundations |
-| **2022–23** | Data engineering · Python · SQL · ETL |
-| **2024→** | Backend engineering · Java · Spring · Hibernate |
-| **Now** | Backend + distributed systems + cloud + production reliability |
-
-</details>
+- Built automated Python and SQL pipelines for recurring reporting workflows, reducing manual data-preparation effort by **50%**.
+- Optimised relational queries and backend calculation models, cutting query execution time by **20%** and processing time by **35%**.
+- Authored generic SQL stored procedures to remediate system-wide corruption caused by invalid payloads, reducing related support tickets by **15% quarterly**.
 
 ---
 
 <a id="projects"></a>
 
-## 🧩 SELECTED PROJECTS
+## 🧩 SELECTED WORK
 
-<table width="100%">
-<tr>
-<td width="33%" valign="top">
+<table width="100%"><tr>
+<td width="33%" valign="top"><h3>🔴 Financial Reconciliation</h3>Java + SQL + Spring Boot workflow for automated Credit Note processing.<br/><br/><strong>Impact:</strong> <code>100% traceability</code></td>
+<td width="33%" valign="top"><h3>🔵 Data Ingestion</h3>Java concurrency + Microsoft Graph API pipeline reliability work.<br/><br/><strong>Impact:</strong> <code>100% data accuracy</code> · <code>400K+ req/day/client</code></td>
+<td width="33%" valign="top"><h3>🟣 Diagnostic Tooling</h3>Internal Java/Spring Boot tooling for configuration and data investigations.<br/><br/><strong>Impact:</strong> <code>25% fewer tickets</code> · <code>8 hrs/week saved</code></td>
+</tr></table>
 
-### 🔥 Backend Systems Lab
-
-Practical backend engineering experiments covering:
-
-`Java` · `Spring Boot` · `REST` · `Concurrency` · `Caching`
-
-<a href="https://github.com/MrBlu1204?tab=repositories">VIEW REPOSITORIES ↗</a>
-
-</td>
-<td width="33%" valign="top">
-
-### ⚙️ Problem Solving
-
-Interview-oriented implementations for:
-
-`DSA` · `Collections` · `Multithreading` · `SQL`
-
-<a href="https://leetcode.com/u/MR-Blu/">LEETCODE ↗</a>
-
-</td>
-<td width="33%" valign="top">
-
-### ☁️ Cloud & Observability
-
-Hands-on exploration of:
-
-`AWS` · `GCP` · `Azure` · `Prometheus` · `Grafana`
-
-<a href="https://github.com/MrBlu1204?tab=repositories">EXPLORE CODE ↗</a>
-
-</td>
-</tr>
-</table>
+<div align="center"><a href="https://github.com/MrBlu1204?tab=repositories"><strong>VIEW ALL REPOSITORIES ↗</strong></a></div>
 
 ---
 
@@ -243,58 +178,24 @@ Hands-on exploration of:
 
 ## 🧠 CODING PROFILES
 
-<div align="center">
-
-<table width="100%">
-<tr>
-<td width="50%" align="center">
-
-### `LEETCODE // MR-BLU`
-
-<a href="https://leetcode.com/u/MR-Blu/">
-<img src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" width="54" alt="LeetCode"/>
-</a>
-
-**Java · MySQL · DSA**
-
-<a href="https://leetcode.com/u/MR-Blu/">OPEN PROFILE ↗</a>
-
-</td>
-<td width="50%" align="center">
-
-### `HACKERRANK // MR_BLU`
-
-<a href="https://www.hackerrank.com/profile/MR_Blu">
-<img src="https://upload.wikimedia.org/wikipedia/commons/6/65/HackerRank_logo.png" width="58" alt="HackerRank"/>
-</a>
-
-**Java · Python · SQL · Problem Solving**
-
-<a href="https://www.hackerrank.com/profile/MR_Blu">OPEN PROFILE ↗</a>
-
-</td>
-</tr>
-</table>
-
-</div>
+<div align="center"><table width="100%"><tr>
+<td width="50%" align="center"><a href="https://leetcode.com/u/MR-Blu/"><img src="https://cdn.simpleicons.org/leetcode/FFA116" width="48" alt="LeetCode" /></a><h3><code>LEETCODE // MR-BLU</code></h3><code>Java</code> · <code>MySQL</code> · <code>DSA</code><br/><br/><a href="https://leetcode.com/u/MR-Blu/">OPEN PROFILE ↗</a></td>
+<td width="50%" align="center"><a href="https://www.hackerrank.com/profile/MR_Blu"><img src="https://cdn.simpleicons.org/hackerrank/00EA64" width="48" alt="HackerRank" /></a><h3><code>HACKERRANK // MR_BLU</code></h3><code>Java</code> · <code>Python</code> · <code>SQL</code> · <code>Problem Solving</code><br/><br/><a href="https://www.hackerrank.com/profile/MR_Blu">OPEN PROFILE ↗</a></td>
+</tr></table></div>
 
 ---
 
-<a id="awards"></a>
+<a id="recognition"></a>
 
 ## 🏆 RECOGNITION
 
-<div align="center">
+<div align="center"><img src="./assets/awards.gif" width="100%" alt="Awards and recognition" /></div>
 
-<img src="./assets/awards.gif" width="100%" alt="Career awards and recognition"/>
-
-</div>
-
-<details>
-<summary><strong>OPEN AWARD ARCHIVE ↗</strong></summary>
+<details><summary><strong>OPEN AWARD ARCHIVE ↗</strong></summary>
 
 | Year | Recognition |
 |:---:|:---|
+| **2025** | Annual Award — Highflyer |
 | **2024** | Award of Applause — Highflyer Q2 |
 | **2023** | Award of Applause — Highflyer H1 |
 | **2021** | Team of the Year — Highflyer |
@@ -306,17 +207,7 @@ Hands-on exploration of:
 
 ## 📈 GITHUB ACTIVITY
 
-<div align="center">
-
-<img src="./assets/github-metrics.svg" width="100%" alt="GitHub activity metrics"/>
-
-<br/><br/>
-
-<a href="https://github.com/MrBlu1204?tab=repositories">ALL REPOSITORIES ↗</a>
-&nbsp;•&nbsp;
-<a href="https://github.com/MrBlu1204?tab=stars">STARRED REPOSITORIES ↗</a>
-
-</div>
+<div align="center"><img src="./assets/github-metrics.svg" width="100%" alt="GitHub activity metrics" /><br/><br/><a href="https://github.com/MrBlu1204?tab=repositories"><strong>EXPLORE MY CODE ↗</strong></a></div>
 
 ---
 
@@ -326,13 +217,19 @@ Hands-on exploration of:
 
 ## 🚀 LET'S CONNECT
 
-Backend systems · Java · Spring Boot · distributed systems · cloud engineering · technical problem solving
+<a href="mailto:manish12042000@gmail.com"><img src="https://cdn.simpleicons.org/gmail/EA4335" width="30" alt="Gmail" /></a>
+&nbsp;
+<a href="https://www.linkedin.com/in/manishranjanbehera/"><img src="https://cdn.simpleicons.org/linkedin/0A66C2" width="30" alt="LinkedIn" /></a>
+&nbsp;
+<a href="https://github.com/MrBlu1204"><img src="https://cdn.simpleicons.org/github/FFFFFF" width="30" alt="GitHub" /></a>
+&nbsp;
+<a href="https://leetcode.com/u/MR-Blu/"><img src="https://cdn.simpleicons.org/leetcode/FFA116" width="30" alt="LeetCode" /></a>
+&nbsp;
+<a href="https://www.hackerrank.com/profile/MR_Blu"><img src="https://cdn.simpleicons.org/hackerrank/00EA64" width="30" alt="HackerRank" /></a>
 
-<br/>
+<br/><br/>
 
-<a href="https://www.linkedin.com/in/manishranjanbehera/">💼 LINKEDIN</a>
-&nbsp;•&nbsp;
-<a href="mailto:manish12042000@gmail.com">✉️ EMAIL</a>
+<a href="https://raw.githubusercontent.com/MrBlu1204/MrBlu1204/main/assets/ManishRanjanBehera_Resume_v26.0820s.pdf"><strong>⬇ DOWNLOAD RESUME</strong></a>
 
 <br/><br/>
 
