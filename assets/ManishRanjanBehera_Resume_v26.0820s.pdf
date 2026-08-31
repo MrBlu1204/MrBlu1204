@@ -15,7 +15,7 @@ endobj
 << /Type /Page /Parent 2 0 R /MediaBox [0 0 595 842] /Resources << /Font << /F1 9 0 R >> >> /Contents 8 0 R >>
 endobj
 6 0 obj
-<< /Length 1111 >>
+<< /Length 1152 >>
 stream
 BT
 /F1 10 Tf
@@ -24,15 +24,19 @@ BT
 0 -16 Td
 (8602747194 | manish12042000@gmail.com | linkedin.com/in/manishranjanbehera | github.com/MrBlu1204) Tj
 0 -16 Td
+() Tj
+0 -16 Td
 (PROFESSIONAL SUMMARY) Tj
 0 -16 Td
 (Software Engineer with 4+ years of experience architecting scalable backend microservices,) Tj
 0 -16 Td
-(distributed data pipelines, and cloud infrastructure (Java, Spring Boot, AWS, Kubernetes).) Tj
+(distributed data pipelines, and cloud infrastructure \(Java, Spring Boot, AWS, Kubernetes\).) Tj
 0 -16 Td
 (Proven track record of optimizing system performance, resolving concurrency bottlenecks,) Tj
 0 -16 Td
 (and maintaining 99% uptime SLAs.) Tj
+0 -16 Td
+() Tj
 0 -16 Td
 (TECHNICAL SKILLS) Tj
 0 -16 Td
@@ -40,7 +44,7 @@ BT
 0 -16 Td
 (Frameworks & Libraries: Spring Boot, Spring MVC, Hibernate, ReactJS) Tj
 0 -16 Td
-(Cloud & Infrastructure: AWS (EC2, RDS, SQS, SNS), GCP, Kubernetes, Docker, CI/CD, Kafka Connectors,) Tj
+(Cloud & Infrastructure: AWS \(EC2, RDS, SQS, SNS\), GCP, Kubernetes, Docker, CI/CD, Kafka Connectors,) Tj
 0 -16 Td
 (Prometheus, Grafana) Tj
 0 -16 Td
@@ -53,7 +57,7 @@ ET
 endstream
 endobj
 7 0 obj
-<< /Length 1850 >>
+<< /Length 1813 >>
 stream
 BT
 /F1 10 Tf
@@ -62,15 +66,17 @@ BT
 0 -16 Td
 (HighRadius Technologies Pvt. Ltd. | Hyderabad, Telangana) Tj
 0 -16 Td
-(Technical Consultant II (Software Engineer) | Jan. 2026 - Present) Tj
+() Tj
 0 -16 Td
-(- Architect and deploy a full-stack Promise to Pay (P2P) feature using Java and SQL, automating) Tj
+(Technical Consultant II \(Software Engineer\) | Jan. 2026 - Present) Tj
+0 -16 Td
+(- Architect and deploy a full-stack Promise to Pay \(P2P\) feature using Java and SQL, automating) Tj
 0 -16 Td
 (  Credit Note processing and achieving 100% traceability for enterprise ledgers.) Tj
 0 -16 Td
 (- Harden enterprise authentication workflows by resolving Java controller and SMTP integration) Tj
 0 -16 Td
-(  failures, restoring reliable One-Time Code (OTC) delivery for password resets impacting 15%.) Tj
+(  failures, restoring reliable One-Time Code \(OTC\) delivery for password resets impacting 15%.) Tj
 0 -16 Td
 (- Monitor and debug multi-cloud infrastructure across AWS, GCP and Azure using Prometheus) Tj
 0 -16 Td
@@ -80,7 +86,9 @@ BT
 0 -16 Td
 (  defects in core backend services, eliminating arbitrary session terminations.) Tj
 0 -16 Td
-(Technical Consultant I (Software Engineer) | Jan. 2025 - Dec. 2025) Tj
+() Tj
+0 -16 Td
+(Technical Consultant I \(Software Engineer\) | Jan. 2025 - Dec. 2025) Tj
 0 -16 Td
 (- Optimized large-scale ETL pipelines by tuning Java thread-pool configurations and execution) Tj
 0 -16 Td
@@ -97,14 +105,14 @@ ET
 endstream
 endobj
 8 0 obj
-<< /Length 1880 >>
+<< /Length 1457 >>
 stream
 BT
 /F1 10 Tf
 50 790 Td
-(PROFESSIONAL EXPERIENCE (CONTINUED)) Tj
+(PROFESSIONAL EXPERIENCE \(CONTINUED\)) Tj
 0 -16 Td
-(Associate Technical Consultant II (Software Engineer) | Jan. 2024 - Dec. 2024) Tj
+(Associate Technical Consultant II \(Software Engineer\) | Jan. 2024 - Dec. 2024) Tj
 0 -16 Td
 (- Engineered scalable backend microservices using Java and Spring Boot, increasing overall system) Tj
 0 -16 Td
@@ -118,7 +126,9 @@ BT
 0 -16 Td
 (  bottlenecks, preventing recurring background job failures and restoring data consistency.) Tj
 0 -16 Td
-(Associate Data Analyst I & II (Data / Analytics Engineering) | Jul. 2022 - Dec. 2023) Tj
+() Tj
+0 -16 Td
+(Associate Data Analyst I & II \(Data / Analytics Engineering\) | Jul. 2022 - Dec. 2023) Tj
 0 -16 Td
 (- Built and deployed automated Python and SQL data pipelines for recurring reporting workflows,) Tj
 0 -16 Td
@@ -141,16 +151,16 @@ xref
 0 10
 0000000000 65535 f 
 0000000009 00000 n 
-0000000061 00000 n 
-0000000134 00000 n 
-0000000280 00000 n 
-0000000426 00000 n 
-0000000572 00000 n 
-0000001730 00000 n 
-0000003595 00000 n 
-0000005517 00000 n 
+0000000058 00000 n 
+0000000127 00000 n 
+0000000253 00000 n 
+0000000379 00000 n 
+0000000505 00000 n 
+0000001709 00000 n 
+0000003574 00000 n 
+0000005083 00000 n 
 trailer
 << /Size 10 /Root 1 0 R >>
 startxref
-5591
+5153
 %%EOF
