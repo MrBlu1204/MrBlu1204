@@ -21,8 +21,6 @@
 <br/><br/>
 
 <a href="https://raw.githubusercontent.com/MrBlu1204/MrBlu1204/main/assets/ManishRanjanBehera_Resume_v26.0820s.pdf"><strong>⬇ DOWNLOAD RESUME</strong></a>
-&nbsp;&nbsp;•&nbsp;&nbsp;
-<a href="https://yashwanth-patam-portfolio.vercel.app/"><strong>VIEW REFERENCE PORTFOLIO ↗</strong></a>
 
 </div>
 
