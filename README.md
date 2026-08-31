@@ -10,7 +10,7 @@
 
 <a href="mailto:manish12042000@gmail.com"><img src="https://cdn.simpleicons.org/gmail/EA4335" width="32" alt="Gmail" /></a>
 &nbsp;&nbsp;
-<a href="https://www.linkedin.com/in/manishranjanbehera/"><img src="https://cdn.simpleicons.org/linkedin/0A66C2" width="32" alt="LinkedIn" /></a>
+<a href="https://www.linkedin.com/in/manishranjanbehera/"><img src="https://upload.wikimedia.org/wikipedia/commons/e/e8/Linkedin-logo-blue-In-square-40px.png?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=original" width="32" alt="LinkedIn" /></a>
 &nbsp;&nbsp;
 <a href="https://github.com/MrBlu1204"><img src="https://cdn.simpleicons.org/github/FFFFFF" width="32" alt="GitHub" /></a>
 &nbsp;&nbsp;
@@ -217,7 +217,7 @@ SQL · MySQL · ClickHouse · Elasticsearch · Python
 
 <a href="mailto:manish12042000@gmail.com"><img src="https://cdn.simpleicons.org/gmail/EA4335" width="30" alt="Gmail" /></a>
 &nbsp;
-<a href="https://www.linkedin.com/in/manishranjanbehera/"><img src="https://cdn.simpleicons.org/linkedin/0A66C2" width="30" alt="LinkedIn" /></a>
+<a href="https://www.linkedin.com/in/manishranjanbehera/"><img src="https://upload.wikimedia.org/wikipedia/commons/e/e8/Linkedin-logo-blue-In-square-40px.png?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=original" width="30" alt="LinkedIn" /></a>
 &nbsp;
 <a href="https://github.com/MrBlu1204"><img src="https://cdn.simpleicons.org/github/FFFFFF" width="30" alt="GitHub" /></a>
 &nbsp;
